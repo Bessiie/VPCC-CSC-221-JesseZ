@@ -1,9 +1,14 @@
-// Chapter2C.P.Exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Jesse Zheng
+//Feburary  5 2025
+//Chapter 2 Exercises
+//Checkpoint 2.20
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	int age = 26;
+	double weight = 120;
+	cout << "My age is " << age << " and my weight is " << weight << endl;
+	return 0;
 }
