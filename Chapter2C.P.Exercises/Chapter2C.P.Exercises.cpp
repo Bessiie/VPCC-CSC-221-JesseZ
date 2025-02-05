@@ -1,6 +1,6 @@
 //Jesse Zheng
 //Feburary 5 2025
-//Chapter 2 Exercises
+//IDE and VCS Setup Project
 //Checkpoint 2.14
 #include <iostream>
 
